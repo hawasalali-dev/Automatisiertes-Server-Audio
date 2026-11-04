@@ -1,5 +1,3 @@
-# Automatisiertes-Server-Audio
-
 # Automatisiertes Server-Audit-System
 
 **Ein Python-basiertes Tool zur Analyse von Server-Inventaren, Filterung kritischer Server und Generierung von Audit-Berichten.**
