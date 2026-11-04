@@ -1,0 +1,6 @@
+Hostname;IP;OS;Status;Patch_Level
+web-server-01;192.168.1.10;Ubuntu 20.04;Online;3
+db-server-01;192.168.1.20;CentOS 7;Online;2
+file-server-01;192.168.1.30;Windows Server 2019;Offline;8
+mail-server-01;192.168.1.40;Debian 11;Online;6
+app-server-01;192.168.1.50;Ubuntu 22.04;Online;4

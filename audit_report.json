@@ -1,0 +1,24 @@
+{
+    "Scan-Datum": "2026-11-04 09:31:30",
+    "Anzahl_gescannter_Server": 5,
+    "Kritische_Server": [
+        {
+            "Hostname": "web-server-01",
+            "IP": "192.168.1.10",
+            "OS": "Ubuntu 20.04",
+            "Patch_Level": "3"
+        },
+        {
+            "Hostname": "db-server-01",
+            "IP": "192.168.1.20",
+            "OS": "CentOS 7",
+            "Patch_Level": "2"
+        },
+        {
+            "Hostname": "app-server-01",
+            "IP": "192.168.1.50",
+            "OS": "Ubuntu 22.04",
+            "Patch_Level": "4"
+        }
+    ]
+}

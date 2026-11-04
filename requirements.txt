@@ -1,0 +1,2 @@
+# Abhängigkeiten für das Projekt (falls benötigt)
+# Dieses Projekt benötigt keine externen Bibliotheken außer der Standardbibliothek.
