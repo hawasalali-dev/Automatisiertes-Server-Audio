@@ -6,7 +6,7 @@
 
 ---
 
-## ✨ **Funktionen**
+##  **Funktionen**
 
 | Schritt | Funktion | Beschreibung |
 |---------|----------|--------------|
